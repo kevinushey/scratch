@@ -1,0 +1,17 @@
+---
+title: "MathJax"
+author: "Kevin Ushey"
+date: "September 15, 2016"
+output: github_document
+---
+
+This is inline math: $P(|\epsilon| > \kappa \sigma)^n$.
+
+This is a chunk of math:
+
+$$
+P(|\epsilon| > \kappa \sigma)^n
+$$
+
+If you're viewing this in your browser, hopefully MathJax
+is rendering the above equations.
